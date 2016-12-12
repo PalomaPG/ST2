@@ -1,0 +1,12 @@
+Key character:a
+Edge label:
+a
+Key character:x
+Edge label:
+xy
+Key character:y
+Edge label:
+yzxya
+Key character:z
+Edge label:
+zxya
